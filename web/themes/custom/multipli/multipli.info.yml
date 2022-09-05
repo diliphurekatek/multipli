@@ -1,0 +1,20 @@
+name: Multipli
+type: theme
+description: 'Multipli'
+package: Other
+core: 9.x
+libraries:
+  - multipli/global-styling
+  - core/normalize
+
+base theme: false
+
+regions:
+  header: 'Header'
+  pre_content: 'Pre-content'
+  breadcrumb: Breadcrumb
+  highlighted: Highlighted
+  content: Content
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  footer: 'Footer'
